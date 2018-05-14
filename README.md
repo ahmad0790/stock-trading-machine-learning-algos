@@ -7,6 +7,7 @@ BagLearner.py = Random Forest built using many bagged Random Trees (inspired by 
 QLearner.py = Q Learning Agent Built using Reinforcment Learning Concepts. Trades over historical data.
 
 manualStrategy.py = a manual strategy built using manual technical indicators (no machine learning)
+
 strategyLearner.py = a Machine Learning based trading strategy
 
 report.pdf consists of performance comparisons
