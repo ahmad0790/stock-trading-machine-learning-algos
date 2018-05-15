@@ -10,6 +10,6 @@ manualStrategy.py = a manual strategy built using manual technical indicators (n
 
 strategyLearner.py = a Machine Learning based trading strategy
 
-report.pdf consists of performance comparisons
+report.pdf explains machine learning trading strategy and performance over training and test data vs a benchmark and manual rules based strategy
 
 Note: this is based on Georgia Tech's Machine Learning class. Code skeleton provided but all implmenntation done by me.
