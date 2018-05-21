@@ -1,5 +1,6 @@
 """
-Template for implementing QLearner  (c) 2015 Tucker Balch
+Implementing QLearner
+Name:Ahmad Khan
 """
 
 import numpy as np
