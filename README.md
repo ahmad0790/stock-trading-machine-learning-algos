@@ -1,4 +1,4 @@
-# ML_Stock_Trading_Algos
+# Stock Trading with (Basic) Machine Learning
 Some Machine Learning algos from scratch for stock trading over historical stock data. 
 
 ## Reports
@@ -35,4 +35,8 @@ Each experiment file is a separate experiment where parameters for the trading s
 
 ## Market Simulator
 marketsimcode.py = market simulator class that allows us to buy and sell stocks and tracks performance of our portfolio
+
+## TBD 
+1) Generalize strategy to all stocks instead of 1 stock at a time
+2) Add in LSTM Deep Learning Neural Network Class to see if that improves performance
 
