@@ -29,6 +29,10 @@ indicators.py = class that has the functions for the different stock indicators 
   4) MACD (including cross overs of MACD and Signal Line)
   5) Bollinger Bands (including Bollinger Bands % and Bollinger Band Cross Overs)
 
+## Experiments
+
+Each experiment file is a separate experiment where parameters for the trading strategy are changed to see how performance is affected
+
 ## Market Simulator
 marketsimcode.py = market simulator class that allows us to buy and sell stocks and tracks performance of our portfolio
 
