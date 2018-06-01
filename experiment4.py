@@ -24,7 +24,7 @@ class StrategyLearner(object):
         self.impact = impact
         self.qLearner = False
 
-    # this method should create a QLearner, and train it for trading
+    # this method should create a BagLearner randomforest, and train it for trading
     def addEvidence(self, symbol = "IBM", \
         sd=dt.datetime(2008,1,1), \
         ed=dt.datetime(2009,1,1), \
